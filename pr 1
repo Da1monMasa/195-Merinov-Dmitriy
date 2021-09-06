@@ -1,0 +1,44 @@
+using System;
+
+namespace ConsoleApp3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                Console.WriteLine("Enter x number(dividend)");
+                double x = Int32.Parse(Console.ReadLine());
+
+                Console.WriteLine("Enter y number(divider)");
+                double y = Int32.Parse(Console.ReadLine());
+                
+                
+                if(x==0)
+                
+                    Console.WriteLine("You can`t divide zero");
+                
+                
+                    
+                if(y==0)
+                    Console.WriteLine("You can`t divide by zero");
+                else
+                    Console.WriteLine($"Result: {x / y}");
+            }
+            catch
+            {
+               
+                Console.WriteLine("You entered not a number!");
+            }
+            finally
+            {
+                Console.WriteLine("Size of integer in bytes:" + " " + sizeof(int));
+                Console.WriteLine("Size of float in bytes:" + " " + sizeof(float));
+                Console.WriteLine("The End of Programm");
+            }
+            
+            Console.ReadKey();
+        }
+    }
+}

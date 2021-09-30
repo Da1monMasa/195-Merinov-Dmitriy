@@ -6,6 +6,7 @@
     <ul>
        <li>git init</li>
        <li>git add .</li>
+       <li>git status - показывает список файлов в репозитории</li>
        <li>git commin -m "comment"</li>
        <li>git remote add origin https://github.com/Da1monMasa/GitBash.git</li>
        <li>git push "https://Da1monMasa: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@github.com/Da1monMasa/GitBash.git"</li>

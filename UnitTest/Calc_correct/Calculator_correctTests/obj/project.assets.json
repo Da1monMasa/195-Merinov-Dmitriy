@@ -6130,19 +6130,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ushka\\.nuget\\packages\\": {}
+    "C:\\Users\\Администратор\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ushka\\source\\repos\\Calculator_correct\\Calculator_correctTests\\Calculator_correctTests.csproj",
+      "projectUniqueName": "C:\\opencv\\dfd\\Practice-Mobile-Apps\\UnitTest\\Calc_correct\\Calculator_correctTests\\Calculator_correctTests.csproj",
       "projectName": "Calculator_correctTests",
-      "projectPath": "C:\\Users\\ushka\\source\\repos\\Calculator_correct\\Calculator_correctTests\\Calculator_correctTests.csproj",
-      "packagesPath": "C:\\Users\\ushka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ushka\\source\\repos\\Calculator_correct\\Calculator_correctTests\\obj\\",
+      "projectPath": "C:\\opencv\\dfd\\Practice-Mobile-Apps\\UnitTest\\Calc_correct\\Calculator_correctTests\\Calculator_correctTests.csproj",
+      "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+      "outputPath": "C:\\opencv\\dfd\\Practice-Mobile-Apps\\UnitTest\\Calc_correct\\Calculator_correctTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ushka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6156,8 +6161,8 @@
         "netcoreapp3.1": {
           "targetAlias": ".NETCoreApp,Version=v3.1",
           "projectReferences": {
-            "C:\\Users\\ushka\\source\\repos\\Calculator_correct\\Calculator_correct\\Calculator_correct.csproj": {
-              "projectPath": "C:\\Users\\ushka\\source\\repos\\Calculator_correct\\Calculator_correct\\Calculator_correct.csproj"
+            "C:\\opencv\\dfd\\Practice-Mobile-Apps\\UnitTest\\Calc_correct\\Calculator_correct\\Calculator_correct.csproj": {
+              "projectPath": "C:\\opencv\\dfd\\Practice-Mobile-Apps\\UnitTest\\Calc_correct\\Calculator_correct\\Calculator_correct.csproj"
             }
           }
         }
@@ -6204,7 +6209,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

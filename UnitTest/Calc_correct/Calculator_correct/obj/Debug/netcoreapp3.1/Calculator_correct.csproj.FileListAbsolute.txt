@@ -1,0 +1,14 @@
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\bin\Debug\netcoreapp3.1\Calculator_correct.exe
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\bin\Debug\netcoreapp3.1\Calculator_correct.deps.json
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\bin\Debug\netcoreapp3.1\Calculator_correct.runtimeconfig.json
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\bin\Debug\netcoreapp3.1\Calculator_correct.runtimeconfig.dev.json
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\bin\Debug\netcoreapp3.1\Calculator_correct.dll
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\bin\Debug\netcoreapp3.1\Calculator_correct.pdb
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\obj\Debug\netcoreapp3.1\Calculator_correct.csproj.AssemblyReference.cache
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\obj\Debug\netcoreapp3.1\Calculator_correct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\obj\Debug\netcoreapp3.1\Calculator_correct.AssemblyInfoInputs.cache
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\obj\Debug\netcoreapp3.1\Calculator_correct.AssemblyInfo.cs
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\obj\Debug\netcoreapp3.1\Calculator_correct.csproj.CoreCompileInputs.cache
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\obj\Debug\netcoreapp3.1\Calculator_correct.dll
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\obj\Debug\netcoreapp3.1\Calculator_correct.pdb
+C:\Users\ushka\source\repos\Calculator_correct\Calculator_correct\obj\Debug\netcoreapp3.1\Calculator_correct.genruntimeconfig.cache

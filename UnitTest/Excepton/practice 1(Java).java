@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-class Main {
+public class Main {
     public static void main(String[] args) {
 
         Scanner in1 = new Scanner(System.in);
@@ -19,8 +19,6 @@ class Main {
             {
                 throw new Exception(" Error!");
             }
-
-
             }
         catch (Exception err)
         {
@@ -31,6 +29,4 @@ class Main {
         }
 
     }
-
-
 }
